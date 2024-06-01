@@ -1,4 +1,4 @@
-package com.Internpe;
+package com.CodeAlpha;
 import java.util.Random;
 import java.util.Scanner;
 class game {
