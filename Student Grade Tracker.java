@@ -1,7 +1,7 @@
-package com.codsoft;
+package com.CodeAlpha;
 import java.util.Scanner;
 
-public class GradeCalculator {
+public class Student_Grade_Tracker {
     public static  void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
