@@ -1,4 +1,4 @@
-package com.codsoft;
+package com.CodeAlpha;
 import java.util.Scanner;
 
 public class Student_Grade_Tracker {
